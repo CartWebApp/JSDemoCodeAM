@@ -1,1 +1,1 @@
-# JS-Purveyors-of-Fine-Logic-Team
+# Purveyors of Fine Logic Assignment
